@@ -1,0 +1,902 @@
+---
+fuente: "BOE"
+fecha: "2017-10-28"
+diario_numero: "261"
+total_documentos: 723
+---
+
+# BOE núm. 261 — 2017-10-28
+
+## I. Disposiciones generales
+
+### PRESIDENCIA DEL GOBIERNO
+
+- [Real Decreto 944/2017, de 27 de octubre, por el que se designa a órganos y autoridades encargados de dar cumplimiento a las medidas dirigidas al Gobierno y a la Administración de la Generalitat de Cataluña, autorizadas por acuerdo del Pleno del Senado, de 27 de octubre de 2017, por el que se aprueban las medidas requeridas por el Gobierno, al amparo del artículo 155 de la Constitución.](BOE-A-2017-12329.md)
+- [Real Decreto 946/2017, de 27 de octubre, de convocatoria de elecciones al Parlamento de Cataluña y de su disolución.](BOE-A-2017-12330.md)
+
+### MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+
+- [Resolución de 27 de octubre de 2017, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del Área del Monopolio.](BOE-A-2017-12331.md)
+
+## II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias
+
+### PRESIDENCIA DEL GOBIERNO
+
+- [Real Decreto 942/2017, de 27 de octubre, por el que se dispone, en virtud de las medidas autorizadas con fecha 27 de octubre de 2017 por el Pleno del Senado respecto de la Generalitat de Cataluña en aplicación del artículo 155 de la Constitución, el cese del M.H. Sr. Presidente de la Generalitat de Cataluña, don Carles Puigdemont i Casamajó.](BOE-A-2017-12332.md)
+- [Real Decreto 943/2017, de 27 de octubre, por el que se dispone, en virtud de las medidas autorizadas con fecha 27 de octubre de 2017 por el Pleno del Senado respecto de la Generalitat de Cataluña en aplicación del artículo 155 de la Constitución, el cese del Vicepresidente de la Generalitat de Cataluña y de los Consejeros integrantes del Consejo de Gobierno de la Generalitat de Cataluña.](BOE-A-2017-12333.md)
+- [Real Decreto 945/2017, de 27 de octubre, por el que se dispone, en virtud de las medidas autorizadas con fecha 27 de octubre de 2017 por el Pleno del Senado respecto de la Generalitat de Cataluña en aplicación del artículo 155 de la Constitución, la adopción de diversas medidas respecto de la organización de la Generalitat de Cataluña, y el cese de distintos altos cargos de la Generalitat de Cataluña.](BOE-A-2017-12334.md)
+
+### MINISTERIO DE JUSTICIA
+
+- [Resolución de 11 de octubre de 2017, de la Dirección General de los Registros y del Notariado, por la que se jubila al notario de Gijón don Ángel Aznarez Rubio.](BOE-A-2017-12335.md)
+
+### MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+
+- [Resolución de 24 de octubre de 2017, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 28 de febrero de 2017.](BOE-A-2017-12336.md)
+
+### MINISTERIO DE EDUCACIÓN, CULTURA Y DEPORTE
+
+- [Orden ECD/1035/2017, de 23 de octubre, por la que se nombran vocales del Patronato del Archivo General de Indias.](BOE-A-2017-12337.md)
+
+### MINISTERIO DE SANIDAD, SERVICIOS SOCIALES E IGUALDAD
+
+- [Resolución de 18 de octubre de 2017, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 27 de junio de 2017.](BOE-A-2017-12338.md)
+
+### UNIVERSIDADES
+
+- [Resolución de 4 de octubre de 2017, de la Universidad de Córdoba, por la que se nombra Catedrático de Universidad a don Rafael Villar Montero.](BOE-A-2017-12339.md)
+
+## III. Otras disposiciones
+
+### MINISTERIO DE JUSTICIA
+
+- [Resolución de 17 de octubre de 2017, de la Dirección General de Relaciones con la Administración de Justicia, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento abreviado 106/2017, contra la Orden JUS/646/2017, de 19 de junio, por la que se convoca concurso de traslados entre funcionarios de los Cuerpos y Escalas de Gestión Procesal y Administrativa, Tramitación Procesal y Administrativa y Auxilio Judicial de la Administración de Justicia.](BOE-A-2017-12343.md)
+
+### MINISTERIO DEL INTERIOR
+
+- [Resolución de 18 de octubre de 2017, de la Secretaría General Técnica, por la que se publica la revocación de la declaración de utilidad pública de diversas asociaciones.](BOE-A-2017-12344.md)
+
+### MINISTERIO DE FOMENTO
+
+- [Resolución de 16 de octubre de 2017, de Sepes Entidad Pública Empresarial de Suelo, por la que se publican las cuentas anuales consolidadas del ejercicio 2016 y el informe de auditoría.](BOE-A-2017-12345.md)
+- [Resolución de 16 de octubre de 2017, de Sepes Entidad Pública Empresarial de Suelo, por la que se publican las cuentas anuales del ejercicio 2016 y el informe de auditoría.](BOE-A-2017-12346.md)
+
+### MINISTERIO DE ENERGÍA, TURISMO Y AGENDA DIGITAL
+
+- [Resolución de 17 de octubre de 2017, del Instituto para la Diversificación y Ahorro de la Energía, por la que se emplaza a los interesados en el recurso contencioso-administrativo 39/2017, interpuesto ante el Juzgado Central Contencioso-Administrativo n.º 6.](BOE-A-2017-12347.md)
+- [Orden ETU/1036/2017, de 27 de octubre, por la que se establecen la disponibilidad y los servicios mínimos de determinadas instalaciones de generación, transporte y distribución de energía eléctrica, de manera que quede garantizado el correcto funcionamiento del sistema eléctrico, ante la huelga general convocada en la Comunidad Autónoma de Cataluña prevista entre las 00:00 horas del día 30 de octubre de 2017 y las 24:00 horas del día 9 de noviembre de 2017.](BOE-A-2017-12348.md)
+- [Orden ETU/1037/2017, de 27 de octubre, por la que se establecen los servicios mínimos del sector de hidrocarburos ante la convocatoria de huelga general prevista entre las 00:00 horas del día 30 de octubre de 2017 y las 24:00 horas del día 9 de noviembre de 2017 en la Comunidad Autónoma de Cataluña.](BOE-A-2017-12349.md)
+
+### BANCO DE ESPAÑA
+
+- [Resolución de 18 de octubre de 2017, del Banco de España, por la que se publica la baja en el Registro de Establecimientos Financieros de Crédito de Montjuich EF, Establecimiento Financiero de Crédito, SA.](BOE-A-2017-12350.md)
+- [Resolución de 27 de octubre de 2017, del Banco de España, por la que se publican los cambios del euro correspondientes al día 27 de octubre de 2017, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.](BOE-A-2017-12351.md)
+- [Resolución de 2 de octubre de 2017, del Banco de España, por la que se publican los índices y tipos de referencia aplicables para el cálculo del valor de mercado en la compensación por riesgo de tipo de interés de los préstamos hipotecarios, así como para el cálculo del diferencial a aplicar para la obtención del valor de mercado de los préstamos o créditos que se cancelan anticipadamente.](BOE-A-2017-12352.md)
+
+## IV. Administración de Justicia
+
+### AUDIENCIA NACIONAL
+
+- [SALA DE LO CONTENCIOSO-ADMINISTRATIVO](BOE-B-2017-62476.md)
+
+### AUDIENCIAS PROVINCIALES
+
+- [ALICANTE](BOE-B-2017-62477.md)
+- [SEGOVIA](BOE-B-2017-62478.md)
+- [VALENCIA](BOE-B-2017-62479.md)
+
+### JUZGADOS DE PRIMERA INSTANCIA E INSTRUCCIÓN
+
+- [ALBACETE](BOE-B-2017-62480.md)
+- [ALCOBENDAS](BOE-B-2017-62481.md)
+- [ALCOBENDAS](BOE-B-2017-62482.md)
+- [ALGECIRAS](BOE-B-2017-62483.md)
+- [ALICANTE](BOE-B-2017-62484.md)
+- [ALICANTE](BOE-B-2017-62485.md)
+- [ALICANTE](BOE-B-2017-62486.md)
+- [ALMERIA](BOE-B-2017-62487.md)
+- [ALMERIA](BOE-B-2017-62488.md)
+- [ALMERIA](BOE-B-2017-62489.md)
+- [ALMERIA](BOE-B-2017-62490.md)
+- [ALMERIA](BOE-B-2017-62491.md)
+- [ALMERIA](BOE-B-2017-62492.md)
+- [ALMERIA](BOE-B-2017-62493.md)
+- [ALZIRA](BOE-B-2017-62494.md)
+- [ALZIRA](BOE-B-2017-62495.md)
+- [ALZIRA](BOE-B-2017-62496.md)
+- [AMPOSTA](BOE-B-2017-62497.md)
+- [AMPOSTA](BOE-B-2017-62498.md)
+- [AMPOSTA](BOE-B-2017-62499.md)
+- [ARACENA](BOE-B-2017-62500.md)
+- [ARANDA DE DUERO](BOE-B-2017-62501.md)
+- [ARCOS FRONTERA](BOE-B-2017-62502.md)
+- [ARCOS FRONTERA](BOE-B-2017-62503.md)
+- [ARENYS DE MAR](BOE-B-2017-62504.md)
+- [ARENYS MAR](BOE-B-2017-62505.md)
+- [ARENYS MAR](BOE-B-2017-62506.md)
+- [ARUCAS](BOE-B-2017-62507.md)
+- [ASTORGA](BOE-B-2017-62508.md)
+- [AVILA](BOE-B-2017-62509.md)
+- [AVILES](BOE-B-2017-62510.md)
+- [AYAMONTE](BOE-B-2017-62511.md)
+- [BADALONA](BOE-B-2017-62512.md)
+- [BADALONA](BOE-B-2017-62513.md)
+- [BALAGUER](BOE-B-2017-62514.md)
+- [BALAGUER](BOE-B-2017-62515.md)
+- [BAÑEZA](BOE-B-2017-62516.md)
+- [BAÑEZA](BOE-B-2017-62517.md)
+- [BARCELONA](BOE-B-2017-62518.md)
+- [BARCELONA](BOE-B-2017-62519.md)
+- [BARCELONA](BOE-B-2017-62520.md)
+- [BARCELONA](BOE-B-2017-62521.md)
+- [BARCELONA](BOE-B-2017-62522.md)
+- [BARCELONA](BOE-B-2017-62523.md)
+- [BARCELONA](BOE-B-2017-62524.md)
+- [BARCELONA](BOE-B-2017-62525.md)
+- [BARCELONA](BOE-B-2017-62526.md)
+- [BARCELONA](BOE-B-2017-62527.md)
+- [BENIDORM](BOE-B-2017-62528.md)
+- [BENIDORM](BOE-B-2017-62529.md)
+- [BERGA](BOE-B-2017-62530.md)
+- [BERGARA](BOE-B-2017-62531.md)
+- [BERJA](BOE-B-2017-62532.md)
+- [BILBAO](BOE-B-2017-62533.md)
+- [BILBAO](BOE-B-2017-62534.md)
+- [BISBAL](BOE-B-2017-62535.md)
+- [BOLTAÑA](BOE-B-2017-62536.md)
+- [BURGOS](BOE-B-2017-62537.md)
+- [CACERES](BOE-B-2017-62538.md)
+- [CACERES](BOE-B-2017-62539.md)
+- [CÁCERES](BOE-B-2017-62540.md)
+- [CADIZ](BOE-B-2017-62541.md)
+- [CALATAYUD](BOE-B-2017-62542.md)
+- [CALATAYUD](BOE-B-2017-62543.md)
+- [CAMBADOS](BOE-B-2017-62544.md)
+- [CARBALLIÑO (O)](BOE-B-2017-62545.md)
+- [CARLET](BOE-B-2017-62546.md)
+- [CASPE](BOE-B-2017-62547.md)
+- [CASPE](BOE-B-2017-62548.md)
+- [CASTELLON DE LA PLANA](BOE-B-2017-62549.md)
+- [CASTELLON DE LA PLANA](BOE-B-2017-62550.md)
+- [CASTELLON DE LA PLANA](BOE-B-2017-62551.md)
+- [CASTELLON DE LA PLANA](BOE-B-2017-62552.md)
+- [CASTELLON DE LA PLANA](BOE-B-2017-62553.md)
+- [CIUDAD REAL](BOE-B-2017-62554.md)
+- [COLMENAR VIEJO](BOE-B-2017-62555.md)
+- [CORDOBA](BOE-B-2017-62556.md)
+- [CUENCA](BOE-B-2017-62557.md)
+- [CUENCA](BOE-B-2017-62558.md)
+- [DENIA](BOE-B-2017-62559.md)
+- [DENIA](BOE-B-2017-62560.md)
+- [DENIA](BOE-B-2017-62561.md)
+- [DONOSTIA-SAN SEBASTIAN](BOE-B-2017-62562.md)
+- [DONOSTIA-SAN SEBASTIAN](BOE-B-2017-62563.md)
+- [DONOSTIA-SAN SEBASTIAN](BOE-B-2017-62564.md)
+- [DOS HERMANAS](BOE-B-2017-62565.md)
+- [DOS HERMANAS](BOE-B-2017-62566.md)
+- [DURANGO](BOE-B-2017-62567.md)
+- [EJIDO(EL)](BOE-B-2017-62568.md)
+- [EJIDO(EL)](BOE-B-2017-62569.md)
+- [EJIDO(EL)](BOE-B-2017-62570.md)
+- [EJIDO(EL)](BOE-B-2017-62571.md)
+- [EJIDO(EL)](BOE-B-2017-62572.md)
+- [EJIDO(EL)](BOE-B-2017-62573.md)
+- [EL PUERTO DE SANTA MARIA](BOE-B-2017-62574.md)
+- [ESPLUGUES DE LLOBREGAT](BOE-B-2017-62575.md)
+- [ESTELLA](BOE-B-2017-62576.md)
+- [ESTEPA](BOE-B-2017-62577.md)
+- [ESTEPA](BOE-B-2017-62578.md)
+- [ESTEPONA](BOE-B-2017-62579.md)
+- [ESTRADA (A)](BOE-B-2017-62580.md)
+- [FERROL](BOE-B-2017-62581.md)
+- [FIGUERES](BOE-B-2017-62582.md)
+- [FIGUERES](BOE-B-2017-62583.md)
+- [FRAGA](BOE-B-2017-62584.md)
+- [FRAGA](BOE-B-2017-62585.md)
+- [FUENGIROLA](BOE-B-2017-62586.md)
+- [FUENGIROLA](BOE-B-2017-62587.md)
+- [GANDIA](BOE-B-2017-62588.md)
+- [GANDIA](BOE-B-2017-62589.md)
+- [GANDIA](BOE-B-2017-62590.md)
+- [GANDIA](BOE-B-2017-62591.md)
+- [GANDIA](BOE-B-2017-62592.md)
+- [GANDIA](BOE-B-2017-62593.md)
+- [GIRONA](BOE-B-2017-62594.md)
+- [GRANADA](BOE-B-2017-62595.md)
+- [GRANADA](BOE-B-2017-62596.md)
+- [GRANADA](BOE-B-2017-62597.md)
+- [GRANADA](BOE-B-2017-62598.md)
+- [GRANADA](BOE-B-2017-62599.md)
+- [GRANADA](BOE-B-2017-62600.md)
+- [GRANADA](BOE-B-2017-62601.md)
+- [GRANADA](BOE-B-2017-62602.md)
+- [GRANADA](BOE-B-2017-62603.md)
+- [GRANADA](BOE-B-2017-62604.md)
+- [GRANOLLERS](BOE-B-2017-62605.md)
+- [GRANOLLERS](BOE-B-2017-62606.md)
+- [GRANOLLERS](BOE-B-2017-62607.md)
+- [GRANOLLERS](BOE-B-2017-62608.md)
+- [GUADALAJARA](BOE-B-2017-62609.md)
+- [GUADALAJARA](BOE-B-2017-62610.md)
+- [GUADALAJARA](BOE-B-2017-62611.md)
+- [GUADALAJARA](BOE-B-2017-62612.md)
+- [GUIMAR](BOE-B-2017-62613.md)
+- [HUELVA](BOE-B-2017-62614.md)
+- [HUELVA](BOE-B-2017-62615.md)
+- [HUELVA](BOE-B-2017-62616.md)
+- [HUERCAL-OVERA](BOE-B-2017-62617.md)
+- [HUERCAL-OVERA](BOE-B-2017-62618.md)
+- [IBI](BOE-B-2017-62619.md)
+- [IGUALADA](BOE-B-2017-62620.md)
+- [INCA](BOE-B-2017-62621.md)
+- [INCA](BOE-B-2017-62622.md)
+- [INCA](BOE-B-2017-62623.md)
+- [JACA](BOE-B-2017-62624.md)
+- [JAEN](BOE-B-2017-62625.md)
+- [LAREDO](BOE-B-2017-62626.md)
+- [LAREDO](BOE-B-2017-62627.md)
+- [LAS PALMAS DE GRAN CANARIA](BOE-B-2017-62628.md)
+- [LAS PALMAS DE GRAN CANARIA](BOE-B-2017-62629.md)
+- [LAS PALMAS DE GRAN CANARIA](BOE-B-2017-62630.md)
+- [LAS PALMAS DE GRAN CANARIA](BOE-B-2017-62631.md)
+- [LAS PALMAS DE GRAN CANARIA](BOE-B-2017-62632.md)
+- [LAS PALMAS DE GRAN CANARIA](BOE-B-2017-62633.md)
+- [LEGANES](BOE-B-2017-62634.md)
+- [LEON](BOE-B-2017-62635.md)
+- [LEON](BOE-B-2017-62636.md)
+- [L'HOSPITALET DE LLOBREGAT](BOE-B-2017-62637.md)
+- [L'HOSPITALET DE LLOBREGAT](BOE-B-2017-62638.md)
+- [LINARES](BOE-B-2017-62639.md)
+- [LLEIDA](BOE-B-2017-62640.md)
+- [LLEIDA](BOE-B-2017-62641.md)
+- [LLEIDA](BOE-B-2017-62642.md)
+- [LLEIDA](BOE-B-2017-62643.md)
+- [LLEIDA](BOE-B-2017-62644.md)
+- [LLIRIA](BOE-B-2017-62645.md)
+- [LLIRIA](BOE-B-2017-62646.md)
+- [LLIRIA](BOE-B-2017-62647.md)
+- [LLIRIA](BOE-B-2017-62648.md)
+- [LOGROÑO](BOE-B-2017-62649.md)
+- [LOJA](BOE-B-2017-62650.md)
+- [LORA RIO](BOE-B-2017-62651.md)
+- [LORA RIO](BOE-B-2017-62652.md)
+- [LUCENA](BOE-B-2017-62653.md)
+- [LUCENA](BOE-B-2017-62654.md)
+- [LUGO](BOE-B-2017-62655.md)
+- [LUGO](BOE-B-2017-62656.md)
+- [LUGO](BOE-B-2017-62657.md)
+- [MADRID](BOE-B-2017-62658.md)
+- [MADRID](BOE-B-2017-62659.md)
+- [MADRID](BOE-B-2017-62660.md)
+- [MADRID](BOE-B-2017-62661.md)
+- [MADRID](BOE-B-2017-62662.md)
+- [MADRID](BOE-B-2017-62663.md)
+- [MADRID](BOE-B-2017-62664.md)
+- [MADRID](BOE-B-2017-62665.md)
+- [MADRID](BOE-B-2017-62666.md)
+- [MADRID](BOE-B-2017-62667.md)
+- [MADRID](BOE-B-2017-62668.md)
+- [MADRID](BOE-B-2017-62669.md)
+- [MADRID](BOE-B-2017-62670.md)
+- [MADRID](BOE-B-2017-62671.md)
+- [MADRID](BOE-B-2017-62672.md)
+- [MADRID](BOE-B-2017-62673.md)
+- [MADRID](BOE-B-2017-62674.md)
+- [MALAGA](BOE-B-2017-62675.md)
+- [MALAGA](BOE-B-2017-62676.md)
+- [MALAGA](BOE-B-2017-62677.md)
+- [MALAGA](BOE-B-2017-62678.md)
+- [MANRESA](BOE-B-2017-62679.md)
+- [MANRESA](BOE-B-2017-62680.md)
+- [MANRESA](BOE-B-2017-62681.md)
+- [MAO](BOE-B-2017-62682.md)
+- [MARBELLA](BOE-B-2017-62683.md)
+- [MARBELLA](BOE-B-2017-62684.md)
+- [MARBELLA](BOE-B-2017-62685.md)
+- [MARTORELL](BOE-B-2017-62686.md)
+- [MARTORELL](BOE-B-2017-62687.md)
+- [MARTORELL](BOE-B-2017-62688.md)
+- [MARTORELL](BOE-B-2017-62689.md)
+- [MATARO](BOE-B-2017-62690.md)
+- [MEDINA RIOSECO](BOE-B-2017-62691.md)
+- [MERIDA](BOE-B-2017-62692.md)
+- [MOLLET DEL VALLES](BOE-B-2017-62693.md)
+- [MONDOÑEDO](BOE-B-2017-62694.md)
+- [MONTIJO](BOE-B-2017-62695.md)
+- [MOSTOLES](BOE-B-2017-62696.md)
+- [MOSTOLES](BOE-B-2017-62697.md)
+- [MOSTOLES](BOE-B-2017-62698.md)
+- [MOTRIL](BOE-B-2017-62699.md)
+- [MOTRIL](BOE-B-2017-62700.md)
+- [MOTRIL](BOE-B-2017-62701.md)
+- [NAVALCARNERO](BOE-B-2017-62702.md)
+- [NOIA](BOE-B-2017-62703.md)
+- [NULES](BOE-B-2017-62704.md)
+- [OLIVENZA](BOE-B-2017-62705.md)
+- [ONTINYENT](BOE-B-2017-62706.md)
+- [ORIHUELA](BOE-B-2017-62707.md)
+- [ORIHUELA](BOE-B-2017-62708.md)
+- [ORIHUELA](BOE-B-2017-62709.md)
+- [OSUNA](BOE-B-2017-62710.md)
+- [OSUNA](BOE-B-2017-62711.md)
+- [PALMA CONDADO](BOE-B-2017-62712.md)
+- [PALMA CONDADO](BOE-B-2017-62713.md)
+- [PALMA DE MALLORCA](BOE-B-2017-62714.md)
+- [PALMA DE MALLORCA](BOE-B-2017-62715.md)
+- [PALMA DE MALLORCA](BOE-B-2017-62716.md)
+- [PALMA DE MALLORCA](BOE-B-2017-62717.md)
+- [PALMA DE MALLORCA](BOE-B-2017-62718.md)
+- [PALMA DE MALLORCA](BOE-B-2017-62719.md)
+- [PAMPLONA](BOE-B-2017-62720.md)
+- [PICASSENT](BOE-B-2017-62721.md)
+- [PLAYA DE LOS CRISTIANOS](BOE-B-2017-62722.md)
+- [PLAYA DE LOS CRISTIANOS](BOE-B-2017-62723.md)
+- [PONFERRADA](BOE-B-2017-62724.md)
+- [PONFERRADA](BOE-B-2017-62725.md)
+- [PONFERRADA](BOE-B-2017-62726.md)
+- [PONFERRADA](BOE-B-2017-62727.md)
+- [PONTEVEDRA](BOE-B-2017-62728.md)
+- [PORRIÑO (O)](BOE-B-2017-62729.md)
+- [POSADAS](BOE-B-2017-62730.md)
+- [POSADAS](BOE-B-2017-62731.md)
+- [PUEBLA SANABRIA](BOE-B-2017-62732.md)
+- [REQUENA](BOE-B-2017-62733.md)
+- [REUS](BOE-B-2017-62734.md)
+- [REUS](BOE-B-2017-62735.md)
+- [REUS](BOE-B-2017-62736.md)
+- [RIBEIRA](BOE-B-2017-62737.md)
+- [RIPOLL](BOE-B-2017-62738.md)
+- [RIPOLL](BOE-B-2017-62739.md)
+- [ROQUETAS DE MAR](BOE-B-2017-62740.md)
+- [ROTA](BOE-B-2017-62741.md)
+- [ROTA](BOE-B-2017-62742.md)
+- [RUBI](BOE-B-2017-62743.md)
+- [RUBI](BOE-B-2017-62744.md)
+- [SABADELL](BOE-B-2017-62745.md)
+- [SALAMANCA](BOE-B-2017-62746.md)
+- [SALAMANCA](BOE-B-2017-62747.md)
+- [SAN BARTOLOME DE TIRAJANA](BOE-B-2017-62748.md)
+- [SANLUCAR BARRAMEDA](BOE-B-2017-62749.md)
+- [SANLUCAR BARRAMEDA](BOE-B-2017-62750.md)
+- [SANLUCAR MAYOR](BOE-B-2017-62751.md)
+- [SANLUCAR MAYOR](BOE-B-2017-62752.md)
+- [SANT BOI DE LLOBREGAT](BOE-B-2017-62753.md)
+- [SANT FELIU DE GUIXOLS](BOE-B-2017-62754.md)
+- [SANT FELIU DE LLOBREGAT](BOE-B-2017-62755.md)
+- [SANT FELIU DE LLOBREGAT](BOE-B-2017-62756.md)
+- [SANT FELIU DE LLOBREGAT](BOE-B-2017-62757.md)
+- [SANT FELIU DE LLOBREGAT](BOE-B-2017-62758.md)
+- [SANT FELIU DE LLOBREGAT](BOE-B-2017-62759.md)
+- [SANT FELIU DE LLOBREGAT](BOE-B-2017-62760.md)
+- [SANT VICENT DEL RASPEIG](BOE-B-2017-62761.md)
+- [SANTA COLOMA DE FARNERS](BOE-B-2017-62762.md)
+- [SANTA COLOMA GRAMENET](BOE-B-2017-62763.md)
+- [SANTA COLOMA GRAMENET](BOE-B-2017-62764.md)
+- [SANTA CRUZ DE TENERIFE](BOE-B-2017-62765.md)
+- [SANTA CRUZ DE TENERIFE](BOE-B-2017-62766.md)
+- [SANTA FE](BOE-B-2017-62767.md)
+- [SEGOVIA](BOE-B-2017-62768.md)
+- [SEU D URGELL (LA)](BOE-B-2017-62769.md)
+- [SEVILLA](BOE-B-2017-62770.md)
+- [SEVILLA](BOE-B-2017-62771.md)
+- [SEVILLA](BOE-B-2017-62772.md)
+- [SEVILLA](BOE-B-2017-62773.md)
+- [SEVILLA](BOE-B-2017-62774.md)
+- [SEVILLA](BOE-B-2017-62775.md)
+- [SEVILLA](BOE-B-2017-62776.md)
+- [SEVILLA](BOE-B-2017-62777.md)
+- [SEVILLA](BOE-B-2017-62778.md)
+- [SEVILLA](BOE-B-2017-62779.md)
+- [SEVILLA](BOE-B-2017-62780.md)
+- [SEVILLA](BOE-B-2017-62781.md)
+- [SEVILLA](BOE-B-2017-62782.md)
+- [SEVILLA](BOE-B-2017-62783.md)
+- [SEVILLA](BOE-B-2017-62784.md)
+- [SEVILLA](BOE-B-2017-62785.md)
+- [SEVILLA](BOE-B-2017-62786.md)
+- [SEVILLA](BOE-B-2017-62787.md)
+- [SEVILLA](BOE-B-2017-62788.md)
+- [SEVILLA](BOE-B-2017-62789.md)
+- [SEVILLA](BOE-B-2017-62790.md)
+- [SEVILLA](BOE-B-2017-62791.md)
+- [SEVILLA](BOE-B-2017-62792.md)
+- [SEVILLA](BOE-B-2017-62793.md)
+- [SOLARES](BOE-B-2017-62794.md)
+- [SORIA](BOE-B-2017-62795.md)
+- [SUECA](BOE-B-2017-62796.md)
+- [SUECA](BOE-B-2017-62797.md)
+- [TALAVERA DE LA REINA](BOE-B-2017-62798.md)
+- [TALAVERA DE LA REINA](BOE-B-2017-62799.md)
+- [TARANCON](BOE-B-2017-62800.md)
+- [TARAZONA](BOE-B-2017-62801.md)
+- [TARRAGONA](BOE-B-2017-62802.md)
+- [TARRAGONA](BOE-B-2017-62803.md)
+- [TELDE](BOE-B-2017-62804.md)
+- [TELDE](BOE-B-2017-62805.md)
+- [TERRASSA](BOE-B-2017-62806.md)
+- [TOLEDO](BOE-B-2017-62807.md)
+- [TOLEDO](BOE-B-2017-62808.md)
+- [TOMELLOSO](BOE-B-2017-62809.md)
+- [TORRELAVEGA](BOE-B-2017-62810.md)
+- [TORREMOLINOS](BOE-B-2017-62811.md)
+- [TORRENT](BOE-B-2017-62812.md)
+- [TORRIJOS](BOE-B-2017-62813.md)
+- [TUDELA](BOE-B-2017-62814.md)
+- [TUDELA](BOE-B-2017-62815.md)
+- [UBRIQUE](BOE-B-2017-62816.md)
+- [UBRIQUE](BOE-B-2017-62817.md)
+- [VALDEMORO](BOE-B-2017-62818.md)
+- [VALDEPEÑAS](BOE-B-2017-62819.md)
+- [VALDEPEÑAS](BOE-B-2017-62820.md)
+- [VALENCIA](BOE-B-2017-62821.md)
+- [VALENCIA](BOE-B-2017-62822.md)
+- [VALENCIA](BOE-B-2017-62823.md)
+- [VALENCIA](BOE-B-2017-62824.md)
+- [VALENCIA](BOE-B-2017-62825.md)
+- [VALENCIA](BOE-B-2017-62826.md)
+- [VALENCIA](BOE-B-2017-62827.md)
+- [VALLADOLID](BOE-B-2017-62828.md)
+- [VALLADOLID](BOE-B-2017-62829.md)
+- [VALLADOLID](BOE-B-2017-62830.md)
+- [VALLADOLID](BOE-B-2017-62831.md)
+- [VELEZ MALAGA](BOE-B-2017-62832.md)
+- [VENDRELL](BOE-B-2017-62833.md)
+- [VENDRELL](BOE-B-2017-62834.md)
+- [VERA](BOE-B-2017-62835.md)
+- [VERA](BOE-B-2017-62836.md)
+- [VIC](BOE-B-2017-62837.md)
+- [VIELHA](BOE-B-2017-62838.md)
+- [VIELHA](BOE-B-2017-62839.md)
+- [VIELHA](BOE-B-2017-62840.md)
+- [VIGO](BOE-B-2017-62841.md)
+- [VILAFRANCA PENEDES](BOE-B-2017-62842.md)
+- [VILAGARCIA DE AROUSA](BOE-B-2017-62843.md)
+- [VILAGARCIA DE AROUSA](BOE-B-2017-62844.md)
+- [VILLARREAL](BOE-B-2017-62845.md)
+- [VILLENA](BOE-B-2017-62846.md)
+- [VILLENA](BOE-B-2017-62847.md)
+- [VINAROS](BOE-B-2017-62848.md)
+- [VITORIA GASTEIZ](BOE-B-2017-62849.md)
+- [ZARAGOZA](BOE-B-2017-62850.md)
+- [ZARAGOZA](BOE-B-2017-62851.md)
+- [ZARAGOZA](BOE-B-2017-62852.md)
+- [ZARAGOZA](BOE-B-2017-62853.md)
+- [ZARAGOZA](BOE-B-2017-62854.md)
+- [ZARAGOZA](BOE-B-2017-62855.md)
+- [ZARAGOZA](BOE-B-2017-62856.md)
+- [ZARAGOZA](BOE-B-2017-62857.md)
+
+### JUZGADOS DE LO MERCANTIL
+
+- [A CORUÑA](BOE-B-2017-62858.md)
+- [A CORUÑA](BOE-B-2017-62859.md)
+- [A CORUÑA](BOE-B-2017-62860.md)
+- [A CORUÑA](BOE-B-2017-62861.md)
+- [A CORUÑA](BOE-B-2017-62862.md)
+- [ALICANTE](BOE-B-2017-62863.md)
+- [ALICANTE](BOE-B-2017-62864.md)
+- [BADAJOZ](BOE-B-2017-62865.md)
+- [BARCELONA](BOE-B-2017-62866.md)
+- [BARCELONA](BOE-B-2017-62867.md)
+- [BARCELONA](BOE-B-2017-62868.md)
+- [BARCELONA](BOE-B-2017-62869.md)
+- [BARCELONA](BOE-B-2017-62870.md)
+- [BARCELONA](BOE-B-2017-62871.md)
+- [BARCELONA](BOE-B-2017-62872.md)
+- [BARCELONA](BOE-B-2017-62873.md)
+- [BARCELONA](BOE-B-2017-62874.md)
+- [BARCELONA](BOE-B-2017-62875.md)
+- [BARCELONA](BOE-B-2017-62876.md)
+- [BILBAO](BOE-B-2017-62877.md)
+- [BILBAO](BOE-B-2017-62878.md)
+- [BILBAO](BOE-B-2017-62879.md)
+- [BURGOS](BOE-B-2017-62880.md)
+- [CADIZ](BOE-B-2017-62881.md)
+- [CIUDAD REAL](BOE-B-2017-62882.md)
+- [CIUDAD REAL](BOE-B-2017-62883.md)
+- [CORDOBA](BOE-B-2017-62884.md)
+- [GIJÓN](BOE-B-2017-62885.md)
+- [GIJÓN](BOE-B-2017-62886.md)
+- [GIJÓN](BOE-B-2017-62887.md)
+- [GRANADA](BOE-B-2017-62888.md)
+- [LUGO](BOE-B-2017-62889.md)
+- [MADRID](BOE-B-2017-62890.md)
+- [MADRID](BOE-B-2017-62891.md)
+- [MADRID](BOE-B-2017-62892.md)
+- [MADRID](BOE-B-2017-62893.md)
+- [MADRID](BOE-B-2017-62894.md)
+- [MADRID](BOE-B-2017-62895.md)
+- [MADRID](BOE-B-2017-62896.md)
+- [MADRID](BOE-B-2017-62897.md)
+- [MADRID](BOE-B-2017-62898.md)
+- [MADRID](BOE-B-2017-62899.md)
+- [MADRID](BOE-B-2017-62900.md)
+- [MADRID](BOE-B-2017-62901.md)
+- [MADRID](BOE-B-2017-62902.md)
+- [MADRID](BOE-B-2017-62903.md)
+- [MADRID](BOE-B-2017-62904.md)
+- [MADRID](BOE-B-2017-62905.md)
+- [MADRID](BOE-B-2017-62906.md)
+- [MADRID](BOE-B-2017-62907.md)
+- [MALAGA](BOE-B-2017-62908.md)
+- [MALAGA](BOE-B-2017-62909.md)
+- [OURENSE](BOE-B-2017-62910.md)
+- [PALMA DE MALLORCA](BOE-B-2017-62911.md)
+- [PONTEVEDRA](BOE-B-2017-62912.md)
+- [PONTEVEDRA](BOE-B-2017-62913.md)
+- [SALAMANCA](BOE-B-2017-62914.md)
+- [SALAMANCA](BOE-B-2017-62915.md)
+- [SALAMANCA](BOE-B-2017-62916.md)
+- [SAN SEBASTIÁN](BOE-B-2017-62917.md)
+- [SAN SEBASTIÁN](BOE-B-2017-62918.md)
+- [SANTANDER](BOE-B-2017-62919.md)
+- [SEVILLA](BOE-B-2017-62920.md)
+- [SEVILLA](BOE-B-2017-62921.md)
+- [SEVILLA](BOE-B-2017-62922.md)
+- [TARRAGONA](BOE-B-2017-62923.md)
+- [VALENCIA](BOE-B-2017-62924.md)
+- [VALENCIA](BOE-B-2017-62925.md)
+- [VALENCIA](BOE-B-2017-62926.md)
+- [VALENCIA](BOE-B-2017-62927.md)
+- [VALLADOLID](BOE-B-2017-62928.md)
+- [VITORIA](BOE-B-2017-62929.md)
+- [ZARAGOZA](BOE-B-2017-62930.md)
+- [ZARAGOZA](BOE-B-2017-62931.md)
+
+### JUZGADOS DE LO PENAL
+
+- [MADRID](BOE-B-2017-62932.md)
+- [PONTEVEDRA](BOE-B-2017-62933.md)
+- [ZARAGOZA](BOE-B-2017-62934.md)
+
+### JUZGADOS DE LO SOCIAL
+
+- [ALBACETE](BOE-B-2017-62935.md)
+- [BADAJOZ](BOE-B-2017-62936.md)
+- [BARCELONA](BOE-B-2017-62937.md)
+- [MADRID](BOE-B-2017-62938.md)
+- [MÁLAGA](BOE-B-2017-62939.md)
+- [SANTA CRUZ DE TENERIFE](BOE-B-2017-62940.md)
+- [SANTANDER](BOE-B-2017-62941.md)
+- [ZARAGOZA](BOE-B-2017-62942.md)
+
+### UNIDAD DE SUBASTAS
+
+- [MURCIA](BOE-B-2017-62943.md)
+- [MURCIA](BOE-B-2017-62944.md)
+- [MURCIA](BOE-B-2017-62945.md)
+- [MURCIA](BOE-B-2017-62946.md)
+- [MURCIA](BOE-B-2017-62947.md)
+- [MURCIA](BOE-B-2017-62948.md)
+- [MURCIA](BOE-B-2017-62949.md)
+- [MURCIA](BOE-B-2017-62950.md)
+- [MURCIA](BOE-B-2017-62951.md)
+- [MURCIA](BOE-B-2017-62952.md)
+- [MURCIA](BOE-B-2017-62953.md)
+- [MURCIA](BOE-B-2017-62954.md)
+- [MURCIA](BOE-B-2017-62955.md)
+- [MURCIA](BOE-B-2017-62956.md)
+- [MURCIA](BOE-B-2017-62957.md)
+- [MURCIA](BOE-B-2017-62958.md)
+- [MURCIA](BOE-B-2017-62959.md)
+- [MURCIA](BOE-B-2017-62960.md)
+- [MURCIA](BOE-B-2017-62961.md)
+- [MURCIA](BOE-B-2017-62962.md)
+- [MURCIA](BOE-B-2017-62963.md)
+- [MURCIA](BOE-B-2017-62964.md)
+- [MURCIA](BOE-B-2017-62965.md)
+- [MURCIA](BOE-B-2017-62966.md)
+
+## V. Anuncios. - A. Contratación del Sector Público
+
+### MINISTERIO DE DEFENSA
+
+- [Anuncio de licitación de la Inspección General de Sanidad de la Defensa. Objeto: Adquisición tipos de film de cloruro de polivinilo. Expediente: 522/2017.](BOE-B-2017-62967.md)
+- [Anuncio de licitación de la Inspección General de Sanidad de la Defensa. Objeto: Adquisición de aluminios para blister. Expediente: 524/2017.](BOE-B-2017-62968.md)
+- [Anuncio de formalización de contratos de la Jefatura de Administración Económica del Estado Mayor de la Defensa. Objeto: Mantenimiento de forma unificada (CUM) de los Sistemas de Tratamiento de Señales en Red (SITRASER), Análisis Móvil (SAM) y de Análisis del Reconocimiento del Habla fase II (SARAH-II), del sistema siglo, pertenecientes al sistema Santiago. Expediente: 10013170373.](BOE-B-2017-62969.md)
+- [Anuncio de licitación de la Jefatura de Intendencia de Asuntos Económicos Centro. Objeto: Servicio de mantenimiento y asistencia técnica de aparatos elevadores en bases, acuartelamientos y establecimientos del área de responsabilidad geográfica (ARG) centro. Expediente: 2003817020000.](BOE-B-2017-62970.md)
+- [Anuncio de licitación de la Jefatura de Intendencia de Asuntos Económicos Centro. Objeto: servicio de mantenimiento de instalaciones de protección contra incendios en bases, acuartelamientos y establecimientos del área de responsabilidad geográfica (ARG) centro. Expediente: 2003817020500.](BOE-B-2017-62971.md)
+- [Anuncio de licitación de la Jefatura de Intendencia de Asuntos Económicos Centro. Objeto: Servicio de mantenimiento y asistencia técnica de instalaciones de instalaciones térmicas en bases, acuartelamientos y establecimientos del Área de Responsabilidad Geográfica (ARG) centro. Expediente: 2003817020700.](BOE-B-2017-62972.md)
+- [Anuncio de licitación de la Jefatura de Intendencia de Asuntos Económicos Centro. Objeto: Servicio de mantenimiento y asistencia técnica de instalaciones de climatización y frío en bases, acuartelamientos y establecimientos del área de responsabilidad geográfica (ARG) centro. Expediente: 2003817020400.](BOE-B-2017-62973.md)
+- [Anuncio de licitación de la Jefatura de Intendencia de Asuntos Económicos Centro. Objeto: Servicio de mantenimiento y asistencia técnica de cubiertas en bases, acuartelamientos y establecimientos del área de responsabilidad geográfica (ARG) centro. Expediente: 2003817020600.](BOE-B-2017-62974.md)
+- [Anuncio del Órgano de Contratación de la Dirección de Abastecimiento y Transportes por la que se anuncia la formalización del Expediente 1305/17 Adquisición Grúa móvil elevadora Telescópica.](BOE-B-2017-62975.md)
+- [Anuncio de licitación de la Jefatura de Intendencia de Asuntos Económicos Centro. Objeto: Servicio de mantenimiento y asistencia técnica de instalaciones para la prevención y control de la legionelosis en bases, acuartelamientos y establecimientos del área de responsabilidad geográfica (ARG) centro. Expediente: 2003817020800.](BOE-B-2017-62976.md)
+- [Anuncio de licitación de la Jefatura de Intendencia de Asuntos Económicos Centro. Objeto: Servicio de mantenimiento de centros de transformación, líneas de media tensión y pararrayos en bases, acuartelamientos y establecimientos del área de responsabilidad geográfica (ARG) centro. Expediente: 2003817020200.](BOE-B-2017-62977.md)
+- [Anuncio de licitación de: Jefatura de la Sección Económico-Administrativa 27 - Base Aérea de Getafe. Objeto: Repuestos automoción vehículos ligeros. Expediente: 4270017077000.](BOE-B-2017-62978.md)
+- [Anuncio de licitación de la Jefatura de la Sección Económico-Administrativa 27 - Base Aérea de Getafe. Objeto: Repuestos de automoción vehículos tácticos. Expediente: 4270017077100.](BOE-B-2017-62979.md)
+- [Anuncio de licitación de la Jefatura de la Sección Económico-Administrativa 27 - Base Aérea de Getafe. Objeto: Repuestos de automoción equipos AGE. Expediente: 4270017076900.](BOE-B-2017-62980.md)
+- [Anuncio de licitación de: Jefatura de la Sección Económico-Administrativa 27 - Base Aérea de Getafe. Objeto: Repuestos de automoción vehículos pesados. Expediente: 4270017077200.](BOE-B-2017-62981.md)
+- [Anuncio de formalización de contratos de: Jefatura de la Sección Económico-Administrativo 16 - Cuartel General del Mando Aéreo General. Objeto: Suministro de productos alimenticios para el ACAR Navacerrada. Expediente: 4160017005000.](BOE-B-2017-62982.md)
+- [Anuncio de formalización de contratos de: Dirección de Abastecimiento y Transportes de la Armada. Objeto: 1232/2017 Adquisición de Granadas aturdidoras de luz y sonido ( Flash Bang). Expediente: 3504017025600.](BOE-B-2017-62983.md)
+
+### MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+
+- [Anuncio de la Delegación Especial de la Agencia Estatal de Administración Tributaria de Valencia por la que se convoca licitación para la contratación del servicio de conservación, conducción y mantenimiento integral de las instalaciones de climatización, grupos de presión de agua y limpieza y desinfección de instalaciones hídricas en los locales utilizados por la Delegación Especial de Valencia y centros dependientes](BOE-B-2017-62984.md)
+- [Anuncio de licitación de: Consorcio de la Zona Franca de Vigo. Objeto: Realización de depósitos y grupo de presión contra incendios en las naves bioclimáticas de Porto do Molle, en Nigrán (Pontevedra). Expediente: OBR/17/0012.](BOE-B-2017-62985.md)
+- [Anuncio de formalización de contratos de: Parque Móvil del Estado. Objeto: Adquisición de vehículo blindado para el Parque Móvil del Estado. Expediente: 2498/2017.](BOE-B-2017-62986.md)
+- [Rectificación del anuncio de la Delegación de Economía y Hacienda de Cuenca por el que se convoca subasta pública de tres fincas urbanas en Cuenca.](BOE-B-2017-62987.md)
+
+### MINISTERIO DEL INTERIOR
+
+- [Anuncio de corrección de errores de: Jefatura de Asuntos Económicos de la Guardia Civil. Objeto: Adquisición de diversos consumibles de impresión original o equivalente para las impresoras del parque informático de la Guardia Civil. Expediente: I/0035/A/17/2.](BOE-B-2017-62988.md)
+
+### MINISTERIO DE FOMENTO
+
+- [Anuncio de licitación de: Presidencia de la Autoridad Portuaria de Baleares. Objeto: Contrato de servicios: Tratamiento archivístico, traslado y destrucción de documentación de la antigua sede de la Autoridad Portuaria de Baleares. Expediente: E16-0166.](BOE-B-2017-62989.md)
+- [Resolución de ENAIRE, por la que se anuncia la licitación del servicio para la verificación en vuelo nuevo procedimiento LEMG GBAS RWY 12 y periódico GBAS.](BOE-B-2017-62990.md)
+- [Anuncio de licitación de la Dirección General de Carreteras. Objeto: Ejecución de diversas operaciones de conservación y explotación en las carreteras: N-VI, N-603, N-110, N-601, N-110a, N-603/AP-61, N-6/A-6. Provincia de Segovia. Expediente: 30.37/17-2; 51-SG-0105.](BOE-B-2017-62991.md)
+- [Anuncio de licitación de la Dirección General de Carreteras. Objeto: Ejecución de diversas operaciones de conservación y explotación en las carreteras: N-260, N-154 y N-152. Provincia de Girona. Expediente: 30.69/17-2; 51-GI-0303.](BOE-B-2017-62992.md)
+- [Anuncio de licitación de la Dirección General de Carreteras. Objeto: Redacción del proyecto de construcción: Segunda fase remodelación enlace 429 Autovía del Mediterráneo (E-15/A-7) con A-391 y A-1051. Términos municipales Roquetas de Mar y Vícar. Provincia de Almería. Expediente: 30.85/17-3; 15-AL-3720.](BOE-B-2017-62993.md)
+- [Anuncio de licitación de la Dirección General de Carreteras. Objeto: Redacción del proyecto de construcción de: Mejora de los enlaces 409 y 411 de la autovía A-7 del Mediterráneo. Provincia de Almería. Expediente: 30.71/17; 15-AL-3700.](BOE-B-2017-62994.md)
+- [Anuncio de formalización de contratos de la Autoridad Portuaria de Vigo. Objeto: Mejora de los elementos de atraque en el Muelle de Guixar. Expediente: O/1.198.](BOE-B-2017-62995.md)
+- [Anuncio de formalización de contratos de: Autoridad Portuaria de Gijón. Objeto: Contratación de un servicio de administración electrónica de expedientes administrativos en la Autoridad Portuaria de Gijón. Expediente: SJ-CTR-2017-002.](BOE-B-2017-62996.md)
+- [Anuncio de formalización de contratos de: Presidencia de la Autoridad Portuaria de la Bahía de Algeciras. Objeto: Contratación del Centro de Servicios al Usuario de la APBA. Expediente: 2017-020.](BOE-B-2017-62997.md)
+- [Resolución de la Entidad Pública Empresarial Administrador de Infraestructuras Ferroviarias, por la que se anuncia la licitación del contrato de "suministro de piezas aislantes J2 interiores y exteriores para carril de 45 y 54".](BOE-B-2017-62998.md)
+- [Resolución de la Entidad Pública Empresarial Administrador de Infraestructuras Ferroviarias, por la que se anuncia la licitación del contrato de "servicios para la redacción del proyecto de construcción para la conexión en ancho estándar al Corredor Mediterráneo de la Plataforma Multimodal de La Llagosta (Barcelona). Plataforma, vía y electrificación".](BOE-B-2017-62999.md)
+- [Anuncio de formalización de contratos de: Autoridad Portuaria de Vigo. Objeto: Servicio de plataforma técnologica de administración electrónica para la Autoridad portuaria de Vigo. Expediente: SET-278.](BOE-B-2017-63000.md)
+- [Resolución de fecha 25 de octubre de 2017 de Enaire por la que se convoca la licitación para el Servicio de desinfección, desinsectación y desratización, prevención y control de la Legionelosis en la DR Sur.](BOE-B-2017-63001.md)
+- [Anuncio de corrección de errores de la Dirección General de Carreteras. Objeto: Ampliación a tres carriles del tramo Carraixet-Valencia de la Autovía V-21. Provincia de Valencia. Expediente: 47-V-7070; 54.10/17.](BOE-B-2017-63002.md)
+
+### MINISTERIO DE EDUCACIÓN, CULTURA Y DEPORTE
+
+- [Anuncio de formalización de contratos de: OA Gerencia de Infraestructuras y Equipamientos de Educación y Cultura. Objeto: Obras de restauración de la fachada este, reparación de cubiertas y filtraciones en el Museo de América (Madrid). Expediente: 17/044 OB.](BOE-B-2017-63003.md)
+- [Resolución del OA Gerencia de Infraestructuras y Equipamientos de Educación y Cultura por la que se convoca licitación para la adjudicación de las obras para la adaptación de la Biblioteca Pública Provincial de Almería a la normativa vigente de protección contra incendios y evacuación.](BOE-B-2017-63004.md)
+
+### MINISTERIO DE EMPLEO Y SEGURIDAD SOCIAL
+
+- [Anuncio de la Dirección Provincial del Servicio Público de Empleo Estatal en Cáceres para la Licitación del Servicio de limpieza de la sede de la Dirección Provincial del SEPE en Cáceres y de su almacén.](BOE-B-2017-63005.md)
+- [Anuncio de la Gerencia de Informática de la Seguridad Social mediante el que se hace pública la formalización del contrato para la realización del servicio de gestión y soporte técnico de sistemas de los sistemas de información del Instituto Nacional de la Seguridad Social.](BOE-B-2017-63006.md)
+- [Anuncio de formalización de contratos de: Gerencia de Informática de la Seguridad Social. Objeto: Servicio de peonaje para carga y descarga en la Gerencia de Informática de la Seguridad Social. Expediente: 7551/2018G.](BOE-B-2017-63007.md)
+- [Resolución de la Dirección Provincial del Servicio Público de Empleo Estatal en Santa Cruz de Tenerife por la que se anuncia la licitación del servicio de limpieza y aseo de la Dirección Provincial.](BOE-B-2017-63008.md)
+- [Resolución de la Dirección Provincial de la Tesorería General de la Seguridad Social de Cáceres por la que se anuncia subasta pública para la enajenación de fincas rústicas de su propiedad.](BOE-B-2017-63009.md)
+- [Resolución de la Dirección Provincial del Servicio Público de Empleo Estatal en Asturias, por el que se anuncia la licitación del contrato del servicio de vigilancia de la seguridad de la Dirección Provincial para el año 2018.](BOE-B-2017-63010.md)
+
+### MINISTERIO DE AGRICULTURA Y PESCA, ALIMENTACIÓN Y MEDIO AMBIENTE
+
+- [Resolución de la Dirección General del agua por la que se anuncia la licitación de contratación de servicios para la dirección de obras de la ría de Asón. Tramo: Colindres-Ampuero. Santoña (Cantabria).](BOE-B-2017-63011.md)
+- [Resolución de la Dirección General del agua por la que se anuncia licitación de contratación de servicios del plan de gestión del riesgo de inundación de la Demarcación Hidrográfica del Júcar fase 1.](BOE-B-2017-63012.md)
+- [Anuncio de formalización de contratos de la Presidencia del Fondo Español de Garantía Agraria. Objeto: Suministro de conserva de sardina en aceite vegetal, con el fin de que el alimento llegue a las personas más desfavorecidas. Expediente: 89/2017 (15/17).](BOE-B-2017-63013.md)
+- [Resolución de la Presidencia de la Confederación Hidrográfica del Miño-Sil, por la que se anuncia la licitación del contrato de servicios de "Asistencia técnica para la redacción del proyecto de EDAR de Priaranza del Bierzo (León)".](BOE-B-2017-63014.md)
+- [Corrección de errores de la Resolución del Fondo Español de Garantía Agraria por la que se convoca subasta pública para la enajenación de Unidades de Almacenamiento (silos) de su propiedad en Zamora.](BOE-B-2017-63015.md)
+- [Resolución de la Dirección General del Agua por la que se anuncia la licitación de contratación de servicios para el seguimiento de las zonas protegidas en la Confederación Hidrográfica del Guadiana.](BOE-B-2017-63016.md)
+- [Resolución de la Dirección General del Agua por la que se anuncia la licitación de contratación de servicios. Plan de gestión de riesgo de inundación de la demarcación hidrográfica del Guadiana-Fase 1.](BOE-B-2017-63017.md)
+
+### MINISTERIO DE LA PRESIDENCIA Y PARA LAS ADMINISTRACIONES TERRITORIALES
+
+- [Anuncio de licitación de la Subdirección General de la Oficina Presupuestaria y de Gestión Económica. Objeto: Servicio de mantenimiento de aparatos elevadores en dependencias de Presidencia del Gobierno, Ministerio de la Presidencia y para las Administraciones Territoriales, CEPCO, CIS y CAPN. Expediente: 3/18.](BOE-B-2017-63018.md)
+
+### MINISTERIO DE ECONOMÍA, INDUSTRIA Y COMPETITIVIDAD
+
+- [Anuncio del Órgano de Contratación de la Agencia Estatal Consejo Superior de Investigaciones Científicas por el que se hace pública la formalización del contrato relativo al suministro e instalación de un microscopio de superresolución destinado a actualizar del servicio de imagen del Instituto de Neurociencias.](BOE-B-2017-63019.md)
+
+### MINISTERIO DE SANIDAD, SERVICIOS SOCIALES E IGUALDAD
+
+- [Anuncio del Instituto Nacional de Gestión Sanitaria por el que se publica la formalización del contrato de los servicios de mantenimiento, soporte y nuevas funcionalidades del sistema de información de Atención Primaria e-Siap, con destino a Atención Primaria de Ceuta y Melilla.](BOE-B-2017-63020.md)
+
+### COMUNIDAD AUTÓNOMA DEL PAÍS VASCO
+
+- [Resolución de la Dirección de Régimen Jurídico y Servicios del Departamento de Educación por el que se publica la formalización del contrato de suministro, entrega y adaptación de material paraterapeutas ocupacionales.](BOE-B-2017-63021.md)
+- [Anuncio del Departamento de Educación por el que se convoca licitación pública del contrato de obra que tiene por objeto la Rehabilitación de las cubiertas del IES Pío Baroja de Irún (Gipuzkoa)](BOE-B-2017-63022.md)
+- [Anuncio de corrección de errores de Osakidetza-Servicio Vasco de Salud en relación al anuncio de licitación para la contratación del "Servicio de limpieza de la OSI Araba y de la OSI Arabako Errioxa".](BOE-B-2017-63023.md)
+- [Resolución de Osakidetza-Servicio Vasco de Salud por la que se hace pública la formalización del contrato de "Suministro de Abciximab (DOE) para las Organizaciones de Servicios de Osakidetza".](BOE-B-2017-63024.md)
+- [Anuncio del Departamento de Empleo y Políticas Sociales del Gobierno Vasco por el que se hace pública la formalización de la contratación de los servicios de planificación y compra de espacios publicitarios en prensa, radio y televisión y publicidad exterior para el Departamento. (Expte. n.º A-004/DEPS2017).](BOE-B-2017-63025.md)
+- [Resolución de Osakidetza-Servicio Vasco de Salud por la que se hace pública la formalización del contrato de "Suministro de Macicentan (DOE) para las Organizaciones de Servicios de Osakidetza".](BOE-B-2017-63026.md)
+- [Resolución de Osakidetza-Servicio Vasco de Salud por la que se hace pública la formalización del contrato de suministro de interferón beta 1a intramuscular (DOE) para las Organizaciones de Servicios de Osakidetza.](BOE-B-2017-63027.md)
+- [Resolución de Osakidetza-Servicio Vasco de Salud por la que se hace pública la formalización del contrato de suministro de tomógrafos axiales computerizados de 64 cortes para diversos centros.](BOE-B-2017-63028.md)
+- [Anuncio del Departamento de Seguridad del Gobierno Vasco por el que se convoca licitación pública del contrato que tiene por objeto el suministro de material fungible de informática.](BOE-B-2017-63029.md)
+- [Anuncio de la Dirección de Patrimonio y Contratación del Gobierno Vasco por el que se rectifica el anuncio de licitación del contrato que tiene por objeto "Servicios complementarios y de colaboración y asistencia en la realización de labores de gestión recaudatoria, en vía ejecutiva, de ingresos de derecho público y la tramitación de fraccionamiento de pago, en vía voluntaria". Expediente C02/009/2017.](BOE-B-2017-63030.md)
+
+### COMUNIDAD AUTÓNOMA DE CATALUÑA
+
+- [Anuncio de la Agencia de la Vivienda de Cataluña por el que se publica la formalización de un contrato del servicio de mantenimiento preventivo y correctivo de las instalaciones solares y instalaciones térmicas interiores en los polígonos y viviendas de promoción pública administradas por la Agencia de la Vivienda de Cataluña.](BOE-B-2017-63031.md)
+
+### COMUNIDAD AUTÓNOMA DE ANDALUCÍA
+
+- [Resolución de la Gerencia Provincial de Sevilla de la Agencia Pública Andaluza de Educación por la que se convoca licitación pública del servicio de transporte escolar en los centros docentes públicos de la provincia de Sevilla dependientes de la Consejería de Educación (Exp. 00556/ISE/2017/SE).](BOE-B-2017-63032.md)
+- [Resolución de 24 de octubre de 2017, de la Gerencia Provincial de Sevilla de la Agencia Pública Andaluza de Educación de la Consejería de Educación, por la que se hace pública la formalización del expediente de servicio transporte escolar en los centros docentes públicos de la provincia de Sevilla dependientes de la Consejería de Educación (Exp.00013/ISE/2016/SE).](BOE-B-2017-63033.md)
+- [Anuncio de la Secretaría General Técnica de la Consejería de Fomento y Vivienda, por el que se publica la Formalización del Contrato "Evolución, actualización y soporte de los sistemas de información geográfica y de inteligencia de negocio de la Consejería de Fomento y Vivienda".](BOE-B-2017-63034.md)
+- [Resolución de la Agencia Pública Empresarial Sanitaria de Desistimiento de la contratación de la gestión de servicios públicos de transporte sanitario programado, secundario y de pacientes críticos.](BOE-B-2017-63035.md)
+- [Resolución de la Secretaría General Técnica, por la que se anuncia licitación del servicio de mantenimiento integral de la sede de Casa Rosa y la sede de Marqués de Nervión de la Consejería de Medio Ambiente y Ordenación del Territorio.](BOE-B-2017-63036.md)
+
+### COMUNIDAD AUTÓNOMA DE LA RIOJA
+
+- [Anuncio del Servicio de Coordinación y Contratación Centralizada de la Consejería de Administración Pública y Hacienda por el que se comunica la formalización del contrato de la Consejería de Fomento y Política Territorial, relativo al servicio de conservación ordinaria de la red de carreteras de La Rioja. Año 2017.](BOE-B-2017-63037.md)
+
+### COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+
+- [Anuncio del Servicio Murciano de Salud por el que se convoca licitación pública de Servicio para la realización de técnicas de reproducción asistida en régimen ambulatorio a beneficiarios del Servicio Murciano de Salud.](BOE-B-2017-63038.md)
+- [Anuncio del Servicio Murciano de Salud por el que se convoca licitación para la adquisición de un equipo de braquiterapia.](BOE-B-2017-63039.md)
+
+### COMUNITAT VALENCIANA
+
+- [Anuncio de licitación de: Departamento de Salud Alicante. Dirección Económica-Gerencia. Objeto: Servicio de mensajería para el Departamento de Salud de Alicante-Hospital General. Expediente: P.A. 481/2017.](BOE-B-2017-63040.md)
+- [Anuncio de formalización de contratos de: Subsecretaría - Consellería de Hacienda y Modelo Económico. Objeto: servicio para la ejecución en colaboración con la Intervención General de la Generalitat, de auditorías del artículo 96 de la Ley 1/2015 de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones . Expediente: CNMY17/INTGE/31.](BOE-B-2017-63041.md)
+- [Anuncio de formalización de contratos de: Subsecretaría - Consellería de Hacienda y Modelo Económico. Objeto: servicio para la ejecución en colaboración con la Intervención General de la Generalitat, de auditorías del artículo 96 de la Ley 1/2015 de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones . Expediente: CNMY17/INTGE/31.](BOE-B-2017-63042.md)
+- [Anuncio de formalización de contratos de: Subsecretaría - Consellería de Hacienda y Modelo Económico. Objeto: servicio para la ejecución en colaboración con la Intervención General de la Generalitat, de auditorías del artículo 96 de la Ley 1/2015 de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones. Expediente: CNMY17/INTGE/31.](BOE-B-2017-63043.md)
+- [Anuncio de formalización de contratos de: Subsecretaría - Consellería de Hacienda y Modelo Económico. Objeto: servicio para la ejecución en colaboración con la Intervención General de la Generalitat, de auditorías del artículo 96 de la Ley 1/2015 de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones. Expediente: CNMY17/INTGE/31.](BOE-B-2017-63044.md)
+- [Anuncio de formalización de contratos de la Subsecretaría - Consellería de Hacienda y Modelo Económico. Objeto: Servicio para la ejecución en colaboración con la Intervención General de la Generalitat, de auditorías del artículo 96 de la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones. Expediente: CNMY17/INTGE/31.](BOE-B-2017-63045.md)
+- [Anuncio de formalización de contratos de: Dirección General de Recursos Humanos y Económicos de la Consellería de Sanidad y Salud Pública . Objeto: Suministro de medicamentos de uso humano para el tratamiento de esclerosis múltiple. Expediente: 384/2016.](BOE-B-2017-63046.md)
+
+### COMUNIDAD AUTÓNOMA DE CANARIAS
+
+- [Anuncio de la Dirección General de Recursos Económicos del Servicio Canario de la Salud, por el que se convoca licitación pública para el procedimiento de adopción de tipo de marcapasos, desfibriladores implantables, electrodos y holter implantables, mediante la suscripción de acuerdo marco.](BOE-B-2017-63047.md)
+- [Anuncio de la Dirección General de Recursos Económicos por el que se hace pública la formalización del contrato de suministro e instalación con mantenimiento posterior de un equipo de radiodiagnóstico con destino al Centro de Salud de Los Llanos de Aridane (La Palma).](BOE-B-2017-63048.md)
+
+### COMUNIDAD AUTÓNOMA DE EXTREMADURA
+
+- [Resolución de 20 de octubre de 2017 de la Secretaría General de la Consejería de Hacienda y Administración Pública, por la que se anuncia la licitación del contrato de los servicios de composición, maquetación, corrección y edición electrónica del Diario Oficial de Extremadura.](BOE-B-2017-63049.md)
+- [Resolución de 27 de octubre de 2017 de la Secretaría General de la Consejería de Medio Ambiente y Rural, Políticas Agrarias y Territorio de corrección de errores del cuadro resumen de características del pliego de cláusulas administrativas particulares en el expediente para la contratación del servicio "Explotación de los servicios de cafetería y comedor en los servicios centrales y territoriales de la Consejería de Medio Ambiente y Rural, Políticas Agrarias y Territorio en Mérida, Badajoz y Cáceres, incorporando medidas de conciliación de la vida personal, laboral y familiar y sobre las condiciones laborales de los trabajadores que prestan el servicio".](BOE-B-2017-63050.md)
+
+### COMUNIDAD AUTÓNOMA DE LAS ILLES BALEARS
+
+- [Anuncio de la Dirección General del Servicio de Salud de las Illes Balears de ampliación del plazo de presentación de ofertas del expediente SSCC PA 260/17. Objeto: "Servicio de mantenimiento de las dependencias adscritas a los Servicios Centrales del Ib-Salut".](BOE-B-2017-63051.md)
+
+### COMUNIDAD DE MADRID
+
+- [Resolución de la Viceconsejería de Sanidad y Dirección General del Servicio Madrileño de Salud, por el que se hace pública la licitación para el Suministro de ropa de uniformidad del personal y camisones para pacientes adultos, con destino a los Hospitales del Servicio Madrileño de Salud.](BOE-B-2017-63052.md)
+- [Resolución de la Dirección Gerencia del Hospital Universitario de Getafe por la que se hace pública la formalización del mantenimiento del sistema de climatización y otras instalaciones del Hospital Universitario de Getafe y centros adscritos.](BOE-B-2017-63053.md)
+- [Resolución de la Viceconsejería de Sanidad y Dirección General del Servicio Madrileño de Salud, por la que se hace pública la formalización del contrato denominado "Adquisición de ecógrafos con destino a los Centros Sanitarios de Atención Primaria del Servicio Madrileño de Salud.](BOE-B-2017-63054.md)
+- [Resolución de la Viceconsejería de Sanidad del Servicio Madrileño de Salud, por la que se hace pública la formalización del contrato de servicios denominado "Servicios para el mantenimiento y soporte del sistema de información Alert-Manchester para la normalización del proceso de triaje de pacientes en un conjunto de hospitales del Servicio Madrileño de Salud de la Comunidad de Madrid".](BOE-B-2017-63055.md)
+- [Resolución de la Secretaría General Técnica por la que se anuncia la licitación del contrato de suministro, montaje e instalación de mesas destinado a los órganos judiciales y fiscalías de la Comunidad de Madrid.](BOE-B-2017-63056.md)
+- [Anuncio de fecha 25 de octubre de 2017, de la Secretaría General Técnica de la Consejería de Cultura, Turismo y Deportes, de la formalización del contrato titulado "Servicio de Limpieza de las dependencias, instalaciones y edificios de la Oficina de Cultura y Turismo de la Comunidad de Madrid".](BOE-B-2017-63057.md)
+
+### CIUDAD DE MELILLA
+
+- [Anuncio de la Excma. Asamblea de Melilla, por el que se convoca licitación para la contratación del servicio de "Limpieza viaria y recogida de residuos sólidos urbanos de la Ciudad Autónoma de Melilla".](BOE-B-2017-63058.md)
+
+### ADMINISTRACIÓN LOCAL
+
+- [Anuncio de Fundación Uliazpi por el que se convoca la licitación de Servicios Integrales.](BOE-B-2017-63059.md)
+- [Anuncio del Ayuntamiento de Albacete de Formalización del contrato de suministro de Arrendamiento mediante renting de vehículos patrulla para la Policía Local de Albacete.](BOE-B-2017-63060.md)
+- [Anuncio del Ayuntamiento de Villamayor de formalización del Contrato de Servicio de Limpieza de Centros Escolares y Dependencias Municipales del Ayuntamiento de Villamayor".](BOE-B-2017-63061.md)
+- [Anuncio del Ayuntamiento de La Orotava por el que se publica la formalización del contrato de suministro de material de oficina ordinario no inventariable.](BOE-B-2017-63062.md)
+- [Anuncio del Consorcio de Aguas Bilbao por la que se publica la licitación del suministro de clorito de sodio líquido.](BOE-B-2017-63063.md)
+- [Anuncio del Instituto Mallorquín de Asuntos Sociales (IMAS) por el que se convoca la licitación del servicio de primera acogida para personas en situación de exclusión social y sin techo de la Red de Inserción Social de Mallorca y programa de Unidad Móvil de Emergencia Social (UMES).](BOE-B-2017-63064.md)
+- [Anuncio de formalización de contratos de: Junta de Gobierno del Ayuntamiento de Castellón de la Plana. Objeto: Servicio de mantenimiento y limpieza de las fuentes ornamentales del término municipal de Castellón de la Plana. Expediente: 47321/2015.](BOE-B-2017-63065.md)
+- [Anuncio del Ayuntamiento de Bilbao por el que se publica la formalización del contrato de suministro y mantenimiento de fotocopiadoras.](BOE-B-2017-63066.md)
+- [Anuncio del Ayuntamiento de Vic por el que se convoca licitación pública para la contratación del suministro de contenedores de las fracciones multiproducto y vidrio para la recogida de residuos municipales.](BOE-B-2017-63067.md)
+- [Anuncio del Ayuntamiento de Sant Adrià de Besòs por el que se convoca licitación pública para la prestación de los servicios pedagógicos y de docencia de la Escuela Municipal de Música Benet Baïls de Sant Adrià de Besòs.](BOE-B-2017-63068.md)
+- [Anuncio del Ayuntamiento de Zaragoza por el que se convoca licitación, para la contratación del suministro de combustibles con destino a edificios y otros equipamientos del Ayuntamiento de Zaragoza.](BOE-B-2017-63069.md)
+- [Anuncio de licitación del servicio de mantenimiento y conservación de las instalaciones del alumbrado público y alumbrado exterior de las dependencias municipales de Sant Pere de Ribes.](BOE-B-2017-63070.md)
+- [Anuncio de formalización de contratos de la Junta de Gobierno de la Diputación Provincial de Córdoba. Objeto: Contratación del suministro por renovación de doce vehículos -Todocaminos-, con destino al Servicio de Carreteras de la Diputación Provincial de Córdoba. Expediente: 27/17.](BOE-B-2017-63071.md)
+- [Anuncio del Excmo. Ayuntamiento de Sevilla, Dirección General de Participación Ciudadana y Coordinación de Distritos por el que se convoca licitación pública para el servicio de vigilancia y seguridad de los Centros Cívicos, equipamientos y actividades de Participación Ciudadana.](BOE-B-2017-63072.md)
+- [Anuncio del Ayuntamiento de Tiana (Barcelona) por el que se convoca licitación pública para adjudicar el Servicio de limpieza de diversas dependencias municipales.](BOE-B-2017-63073.md)
+- [Anuncio del Ayuntamiento de Madrid por el que se hace pública la convocatoria para la licitación del contrato de adquisición maquinaria para los Jardines del Buen Retiro, Casa de Campo y viveros municipales.](BOE-B-2017-63074.md)
+- [Anuncio del Ayuntamiento de Madrid por el que se rectifica el plazo de presentación de ofertas y solicitudes de participación del contrato de "Obras de creación y mejora de zonas verdes en distritos zona norte de Madrid".](BOE-B-2017-63075.md)
+- [Anuncio del Ayuntamiento de Zaragoza por el que se convoca licitación para la contratación de los servicios de tiempo libre en centros de titularidad municipal.](BOE-B-2017-63076.md)
+- [Anuncio del Ayuntamiento de Lucena por el que se convoca licitación pública para el suministro de energía eléctrica de media y baja tensión.](BOE-B-2017-63077.md)
+- [Anuncio de licitación de la Junta de Gobierno del Ayuntamiento de Málaga. Objeto: Servicio de control de acceso al edificio de usos múltiples municipales. Expediente: 181/17.](BOE-B-2017-63078.md)
+- [Resolución del Ayuntamiento de Madrid, por la que se anuncia la formalización del contrato denominado "Servicio de mantenimiento preventivo y correctivo de las puertas y portones de paso de vehículos de los parques y edificios adscritos a la jefatura del cuerpo de bomberos del Ayuntamiento de Madrid".](BOE-B-2017-63079.md)
+- [Resolución del Organismo Autónomo Informática del Ayuntamiento de Madrid por la que se hace pública la formalización del contrato de suministro denominado: Suscripciones del sistema operativo Red Hat Enterprise Linux (RHEL) y del software servidor de aplicaciones Jboss Enterprise Application Platform with Management.](BOE-B-2017-63080.md)
+- [Anuncio de formalización de contratos del Ayto. de Madrigal de la Vera. Objeto: E.D.A.R.. Expediente: 193/17.](BOE-B-2017-63081.md)
+- [Anuncio del Cabildo Insular de Lanzarote sobre formalización de un contrato de servicio de conservación y mantenimiento de la red de carreteras del Cabildo de Lanzarote.](BOE-B-2017-63082.md)
+- [Anuncio del Cabildo Insular de Lanzarote sobre formalización de un contrato de arrendamiento, mediante el sistema de renting, sin opción de compra, de equipos de impresión, fotocopiado y escaneado de documentos, y el mantenimiento y sistema de gestión.](BOE-B-2017-63083.md)
+- [Anuncio de formalización de contratos de la Junta de Gobierno del Ayuntamiento de Aranda de Duero. Objeto: Suministro de energía eléctrica para los puntos de consumo de baja-alta tensión del Ayuntamiento de Aranda de Duero. Expediente: 544/17.](BOE-B-2017-63084.md)
+- [Anuncio del Ayuntamiento de Valencia por el que se convoca licitación para contratar la prestación del servicio de control sanitario y poblacional de palomas urbanas y estorninos en la ciudad de Valencia.](BOE-B-2017-63085.md)
+- [Anuncio del Ayuntamiento de Valencia por el que se convoca licitación para la prestación de los servicios postales.](BOE-B-2017-63086.md)
+- [Anuncio del Ayuntamiento de l'Hospitalet de Llobregat por el que se convoca licitación pública de los servicios de limpieza y gestión interna de los residuos de los edificios y dependencias municipales para los años 2017-2019.](BOE-B-2017-63087.md)
+- [Resolución del Ayuntamiento de Las Rozas de Madrid por la que se formaliza el contrato para la prestación del servicio de Control de accesos y funciones auxiliares en dependencias municipales.](BOE-B-2017-63088.md)
+- [Anuncio del Consorcio Provincial de Medio Ambiente de Albacete de licitación de suministro de dos camiones compactadores destinados al programa de recogida selectiva de envases de la provincia de Albacete.](BOE-B-2017-63089.md)
+- [Anuncio del Ayuntamiento de Terrassa por el que se convoca licitación pública para el contrato de gestión de los servicios energéticos municipales, para la reducción del consumo energético mediante la mejora y mantenimiento de las instalaciones de alumbrado público, la renovación de la iluminación interior y la implementación de energías renovables.](BOE-B-2017-63090.md)
+- [Acuerdo del Comité Ejecutivo del Consorcio de Prevención, Extinción de Incendios y Salvamento de la Isla de Tenerife por el que se adopta la licitación para el el Servicio de los Seguros de Vida, de los Vehículos y de Responsabilidad Civil del Consorcio de Prevención, Extinción de Incendios y Salvamento de la Isla de Tenerife.](BOE-B-2017-63091.md)
+- [Anuncio del Ayuntamiento de Reus por el que se convoca licitación pública del servicio de mantenimiento y conservación de ascensores y aparatos elevadores de varios edificios municipales, de organismos autónomos y entes dependientes.](BOE-B-2017-63092.md)
+- [Anuncio del Ayuntamiento de Reus por el que se convoca licitación pública del servicio de Teleasistencia domiciliaria.](BOE-B-2017-63093.md)
+- [Acuerdo del Comité Ejecutivo del Consorcio de Prevención, Extinción de Incendios y Salvamento de la Isla de Tenerife por el que se convoca licitación pública del Servicio de Limpieza de los centros del Consorcio de Prevención, Extinción de Incendios y Salvamento de la Isla de Tenerife.](BOE-B-2017-63094.md)
+- [Anuncio del Ayuntamiento de Reus por el que se convoca licitación pública del servicio de limpieza de los centros y dependencias municipales.](BOE-B-2017-63095.md)
+- [Anuncio de licitación de: Presidencia de la Diputación Provincial de Valencia. Objeto: Elaboración inventarios emisiones de referencia, evaluación riesgos y vulnerabilidades derivadas del cambio climático, (...) de 62 municipios Provincia Valencia. Expediente: 154/17/JV_2ªCONV.](BOE-B-2017-63096.md)
+- [Anuncio de formalización de contratos de: Alcaldía del Ayuntamiento de Oleiros. Objeto: Suministro de energía eléctrica en baja y media tensión para el Ayuntamiento de Oleiros. Expediente: 2017/CONTRAT/000040.](BOE-B-2017-63097.md)
+- [Anuncio del Ayuntamiento de l'Arboç por el cual se convoca licitación pública para la prestación del servicio pública de recogida domiciliaria de residuos domésticos y su transporte a los centros gestores de residuos.](BOE-B-2017-63098.md)
+- [Anuncio de la Diputación de Barcelona de rectificación de la licitación para mantenimiento de aparatos elevadores (ascensores, montacargas, plataformas elevadoras, salva-escaleras, góndolas) de varios edificios de la Diputación de Barcelona.](BOE-B-2017-63099.md)
+- [Anuncio del Consorcio de Transporte Metropolitano del Área de Sevilla de licitación del contrato de servicios de información y atención al usuario en las oficinas del Consorcio.](BOE-B-2017-63100.md)
+- [Resolución de la Coordinación del Distrito de Moncloa-Aravaca del Ayuntamiento de Madrid, por la que se convoca licitación pública del contrato denominado: Organización e Infraestructura para la realización de un Programa de Huertos Escolares en Colegios Públicos del Distrito de Moncloa-Aravaca, año 2018.](BOE-B-2017-63101.md)
+- [Anuncio del Ayuntamiento de Cádiz por el que se convoca licitación pública para la contratación de los servicios de conservación y mantenimiento de zonas verdes y arbolado de la ciudad de Cádiz.](BOE-B-2017-63102.md)
+- [Anuncio del Ayuntamiento de Madrid por el que se hace pública la formalización del acuerdo marco para la ejecución de trabajos hortícolas sostenibles en centros escolares.](BOE-B-2017-63103.md)
+- [Anuncio del Ayuntamiento de Madrid por el que se hace pública la formalización del contrato de servicio de mantenimiento y operación de la planta de la erar sur para el secado térmico de los lodos generados en las estaciones regeneradoras de agua.](BOE-B-2017-63104.md)
+- [Anuncio de la Diputación Provincial de Guadalajara de formalización del contrato de servicio de comedor y cocina en la residencia de estudiantes.](BOE-B-2017-63105.md)
+- [Anuncio de la Diputación Provincial de León por el que se publica la formalización del contrato correspondiente a los servicios de asistencia a enfermos mentales y psicosociales a cargo de la Diputación de León en el Centro Asistencial San Juan de Dios de Palencia.](BOE-B-2017-63106.md)
+- [Anuncio del Ayuntamiento de Vitoria-Gasteiz de formalización del contrato de servicio de conservación de la vegetación en el anillo verde de Vitoria-Gasteiz 2017-2018.](BOE-B-2017-63107.md)
+- [Anuncio del Ayuntamiento de Masllorenç para la licitación del contrato de obras para la remodelación de la plaza Pau Casals.](BOE-B-2017-63108.md)
+- [Resolución del Ayuntamiento de Sevilla por la que se convoca la licitación para la contratación del suministro de chalecos antibalas para la Policía Local.](BOE-B-2017-63109.md)
+- [Resolución del Ayuntamiento de Sevilla por el que se convoca la licitación para la contratación del suministro de diversos vehículos para el Servicio de Prevención, Extinción de Incendios y Salvamento.](BOE-B-2017-63110.md)
+- [Resolución de 26 de octubre de la Coordinación del Distrito de Salamanca del Ayuntamiento de Madrid, de licitación para la Instalación de dos pistas de hielo durante las Fiestas de Navidad.](BOE-B-2017-63111.md)
+
+### UNIVERSIDADES
+
+- [Resolución del Rectorado de la Universidad de Málaga por la que se publica la formalización del contrato para el suministro, instalación y puesta en marcha de un ICP óptico y analizador elemental para el Laboratorio de Geomorfología y Suelos.](BOE-B-2017-63112.md)
+- [Anuncio de licitación de: Rectorado de la Universitat Politècnica de València. Objeto: Suministro, instalación y puesta en servicio, estanterías compactas móviles, para el depósito de colecciones bibliográficas en la Biblioteca Central. Expediente: MY17/VCS/S/45.](BOE-B-2017-63113.md)
+- [Anuncio de formalización de contratos de: Gerencia de la Universidad de Castilla-La Mancha. Objeto: Sistema de Loms IT-TOF. Expediente: SU13817005705.](BOE-B-2017-63114.md)
+- [Resolución de la Universidad de Almería por la que se anuncia a licitación la prestación de servicios para la asistencia técnica en el desarrollo de la administración electrónica en la UAL.](BOE-B-2017-63115.md)
+- [Anuncio de formalización de contratos del Rectorado de la Universitat Politècnica de València. Objeto: Suministro e instalación de un difractómetro de rayos X de alta resolución. Expediente: MY17/IUTQ/S/15.](BOE-B-2017-63116.md)
+- [Resolución del Rectorado de la Universidad de Málaga por la que se convoca licitación pública para el Servicio de Auditoria Financiera de las Cuentas anuales de la Universidad de Málaga correspondiente a los ejercicios económicos 2017-2018.](BOE-B-2017-63117.md)
+- [Resolución de la Universidad de Oviedo por la que se anuncia la licitación del servicio de cafetería comedor en varios centros de esta Universidad.](BOE-B-2017-63118.md)
+- [Anuncio de la Resolución de la Universidad del País Vasco/Euskal Herriko Unibertsitatea por la que se convoca a licitación el contrato de suministro de un sistema de gestión para la Biblioteca Universitaria de la UPV/EHU.](BOE-B-2017-63119.md)
+- [Anuncio de licitación del Rectorado de la Universitat Politècnica de València. Objeto: Reforma de la instalación de climatización del edificio de Deportes 7C, en el Campus de Vera de la Universitat Politècnica de València. Expediente: MY17/VCS/O/47.](BOE-B-2017-63120.md)
+- [Anuncio de formalización de contratos de: Rectorado de la Universidad Jaume I. Objeto: Suministro, entrega e instalación del mobiliario para despachos, aulas y otras dependencias para uso docente y administrativo. Expediente: SU/8/17.](BOE-B-2017-63121.md)
+- [Anuncio de formalización de contratos de: Rectorado de la Universidad de Sevilla. Objeto: Servicio de comedor en el Colegio Mayor Hernando colón. Expediente: 17/04195.](BOE-B-2017-63122.md)
+- [Anuncio de licitación de: Gerencia de la Universidad de Alcalá. Objeto: Adquisición, transporte, montaje e instalación de una máquina de autopréstamo de portátiles para el CRAI. Expediente: 2017/042.SUM.ABR.MC.](BOE-B-2017-63123.md)
+- [Anuncio de licitación de: Gerencia de la Universidad de Alcalá. Objeto: Adquisición y gestión de equipos de protección individual para el personal de la UAH. Expediente: 2017/046.SUM.ABR.MC.](BOE-B-2017-63124.md)
+- [Anuncio de formalización de contratos de: Rectorado de la Universitat Politècnica de València. Objeto: Contratación de mantenimiento de la licencia Universitas XXI - Recursos Humanos. Expediente: MY17/ASIC/SE/32.](BOE-B-2017-63125.md)
+- [Anuncio de la Universidad Complutense de Madrid por el que se convoca la licitación del contrato: servicio de mantenimiento y conservación de los centros de transformación de energía eléctrica, grupos electrógenos y baterías de condensadores en diversos centros de la UCM.](BOE-B-2017-63126.md)
+
+### OTROS PODERES ADJUDICADORES
+
+- [Anuncio de la "Empresa Metropolitana de Abastecimiento y Saneamiento de Aguas de Sevilla, Sociedad Anónima", de licitación para la contratación de la limpieza de grandes colectores Cuenca Tamarguillo y Desdoble, Sevilla.](BOE-B-2017-63127.md)
+- [Anuncio de licitación de: Gerencia del Centro de Investigación Biomédica en Red (CIBER). Objeto: Servicio de apoyo a la investigación para la gestión documental. Expediente: 2017/ES/27.](BOE-B-2017-63128.md)
+- [Anuncio de la Sociedad ITVASA por el que se convoca licitación pública para el servicio de limpieza de sus centros y espacios.](BOE-B-2017-63129.md)
+- [Anuncio de Aguas de Valencia, S.A. de adjudicación del suministro de hipoclorito sódico.](BOE-B-2017-63130.md)
+- [Resolución de AENA, S.M.E, S.A. por la que se convoca Servicio de Control de Fauna en el Aeropuerto de Palma de Mallorca.](BOE-B-2017-63131.md)
+- [Anuncio de la Empresa Municipal de Transportes de Madrid, S.A. de licitación para el "Suministro de vestuario para el personal conductor del Servicio de Movilidad de EMT (varios tipos y tallas)".](BOE-B-2017-63132.md)
+- [Anuncio de la Empresa Mancomunada del Aljarafe, S.A. (Aljarafesa) de licitación para la Contratación del Suministro de Contadores para la Empresa Mancomunada del Aljarafe, S.A., Aljarafesa.](BOE-B-2017-63133.md)
+- [Anuncio de Renfe Viajeros Sociedad Mercantil Estatal S.A. por el que se comunica la licitación de la contratación de Servicio de Mantenimiento Hardware y Software y Administrador de Servidores de Renfe Viajeros.](BOE-B-2017-63134.md)
+- [Anuncio de Renfe Viajeros Sociedad Mercantil Estatal S.A. por el que se comunica la licitación para la contratación de Servicio Mantenimiento Integral Equipos Telebillética Estaciones Gerencia Servicio Público este.](BOE-B-2017-63135.md)
+- [Anuncio de Renfe Viajeros Sociedad Mercantil Estatal S.A. por el que se comunica la licitación para la contratación de Suministro y Fabricación de Soportes de Venta para Billetes Magnéticos y Tarjetas sin Contacto de Renfe Viajeros.](BOE-B-2017-63136.md)
+- [Anuncio de Metropolitano de Tenerife, S.A. sobre la formalización del contrato de prestación de servicios del seguro colectivo de asistencia sanitaria para Metropolitano de Tenerife, S.A.](BOE-B-2017-63137.md)
+- [Anuncio de Gestión y Desarrollo del medio Ambiente de Madrid, S.A. (GEDESMA), por el que se hace pública la licitación del contrato de "Programa de formación, promoción, dinamización y divulgación ambiental en el centro de educación ambiental Arboreto Luis Ceballos, para el periodo de 1 de enero a 30 de junio de 2018".](BOE-B-2017-63138.md)
+- [Anuncio de Metro de Madrid, Sociedad Anónima por el que se convoca la licitación para la contratación de un servicio de mantenimiento integral de pasos de peaje 216 THALES y 509 INDRA.](BOE-B-2017-63139.md)
+- [Anuncio de Aena S.M.E., S.A., de corrección de errores correspondiente a la licitación para la contratación del servicio de gestión y mantenimiento de carros portaequipajes en el Aeropuerto de Gran Canaria.](BOE-B-2017-63140.md)
+
+## V. Anuncios. - B. Otros anuncios oficiales
+
+### MINISTERIO DE FOMENTO
+
+- [Anuncio de la Autoridad Portuaria de A Coruña por el que se publica el otorgamiento de una concesión para explotación de una báscula en el Muelle de Centenario Norte.](BOE-B-2017-63141.md)
+
+### MINISTERIO DE EMPLEO Y SEGURIDAD SOCIAL
+
+- [Extracto de la Resolución de 24 de octubre de 2017, de la Dirección Provincial del Servicio Público de Empleo Estatal en Granada, por la que se convocan de forma extraordinaria subvenciones para la ejecución de proyectos de obras y servicios de interés general y social generadores de empleo estable con cargo al Programa de Fomento de Empleo Agrario en 2017.](BOE-B-2017-63142.md)
+
+### MINISTERIO DE ENERGÍA, TURISMO Y AGENDA DIGITAL
+
+- [Anuncio de la Dependencia de Industria y Energía de la Subdelegación del Gobierno en Cuenca por el que se somete a información pública el Estudio de Impacto Ambiental y la Solicitud de Autorización Administrativa Previa del Anteproyecto del "Parque Eólico Cuevas de Velasco de 100 MW y su infraestructura de evacuación (subestación Villar del Águila 30/220kV, línea eléctrica 220kV e instalaciones de medida)".](BOE-B-2017-63143.md)
+
+### MINISTERIO DE AGRICULTURA Y PESCA, ALIMENTACIÓN Y MEDIO AMBIENTE
+
+- [Anuncio del Servicio Provincial de Costas de Gipuzkoa sobre otorgamiento de concesión de dominio público marítimo-terrestre con destino a puente de Astiñene, sobre el río Urumea, término municipal de Donostia-San Sebastián (Gipuzkoa). REF: CNC02/16/20/0010.](BOE-B-2017-63144.md)
+- [Anuncio de la Confederación Hidrográfica del Guadiana relativo a la información pública del proyecto de transformación en regadío del sector IV de la zona regable Centro de Extremadura, primera fase (Cáceres y Badajoz). Clave 04.262-0031/2111.](BOE-B-2017-63145.md)
+- [Anuncio de Información Pública de la Demarcación de Costas en Galicia por el cual el Concello de Boiro solicita autorización para realizar las actuaciones de regeneración y mejora medioambiental en el estuario del río Coroño (Tramo Centro Sur). (Expdte. OPC 41/04-2017).](BOE-B-2017-63146.md)
+- [Extracto de la Orden de 20 de octubre de 2017 por la que se convoca para el año 2017 la concesión de subvenciones al fomento del asociacionismo a entidades asociativas representativas del sector pesquero.](BOE-B-2017-63147.md)
+
+### MINISTERIO DE ECONOMÍA, INDUSTRIA Y COMPETITIVIDAD
+
+- [Extracto de la Resolución de 19 de octubre de 2017 de ICEX España Exportación e Inversiones, E.P.E., M.P. por la que se convocan ayudas a través del Plan ICEX TARGET USA para 2017.](BOE-B-2017-63148.md)
+- [Extracto de la Resolución de 18 de octubre de 2017, de la Presidencia de la Agencia Estatal de Investigación por la que se aprueba la convocatoria de tramitación anticipada, correspondiente al año 2017, de diversas actuaciones contempladas en el Subprograma Estatal de Formación y en el Subprograma Estatal de Incorporación, del Programa Estatal de Promoción del Talento y su Empleabilidad, en el marco del Plan Estatal de I+D+i 2013-2016 -Ayudas Juan de la Cierva-Incorporación](BOE-B-2017-63149.md)
+- [Extracto de la Resolución de 18 de octubre de 2017, de la Presidencia de la Agencia Estatal de Investigación por la que se aprueba la convocatoria de tramitación anticipada, correspondiente al año 2017, de diversas actuaciones contempladas en el Subprograma Estatal de Formación y en el Subprograma Estatal de Incorporación, del Programa Estatal de Promoción del Talento y su Empleabilidad, en el marco del Plan Estatal de I+D+i 2013-2016 -Ayudas para personal técnico de apoyo](BOE-B-2017-63150.md)
+- [Extracto de la Resolución de 18 de octubre de 2017, de la Presidencia de la Agencia Estatal de Investigación, por la que se aprueba la convocatoria de tramitación anticipada, correspondiente al año 2017, de diversas actuaciones contempladas en el Subprograma Estatal de Formación y en el Subprograma Estatal de Incorporación, del Programa Estatal de Promoción del Talento y su Empleabilidad, en el marco del Plan Estatal de I+D+i 2013-2016 -Ayudas Juan de la Cierva-Formación.](BOE-B-2017-63151.md)
+
+### COMUNIDAD AUTÓNOMA DEL PAÍS VASCO
+
+- [Anuncio de corrección de error del anuncio del Ente Público Euskal Trenbide Sarea- Red Ferroviaria Vasca, por el que se convoca la licitación pública del suministro de energía de baja tensión para las dependencias de la red de ETS.](BOE-B-2017-63152.md)
+
+### COMUNIDAD AUTÓNOMA DE ANDALUCÍA
+
+- [Resolución de la Dirección General de Industrias y Cadena Agroalimentaria, de la Consejería de Agricultura, Pesca y Desarrollo Rural de la Junta de Andalucía, por la que se da publicidad a la solicitud de aprobación de la modificación del pliego de condiciones de la Denominación de Origen Protegida «Antequera».](BOE-B-2017-63153.md)
+
+### COMUNIDAD DE CASTILLA Y LEÓN
+
+- [Resolución de la Dirección General del Instituto Tecnológico Agrario de Castilla y León por la que se da continuidad al procedimiento y se hace pública la solicitud modificada de protección e inscripción en el registro comunitario de la indicación geográfica protegida «Queso de Burgos».](BOE-B-2017-63154.md)
+
+### UNIVERSIDADES
+
+- [Anuncio de la Facultad de Medicina de la Universidad de Granada sobre extravío de título universitario.](BOE-B-2017-63155.md)
+- [Anuncio de la Universidad del País Vasco/Euskal Herriko Unibertsitatea sobre extravío de título universitario.](BOE-B-2017-63156.md)
+- [Anuncio de la Facultad de Química de la Universidad Rovira i Virgili sobre extravío de título universitario.](BOE-B-2017-63157.md)
+- [Anuncio de la Facultad de Derecho de la Universidad de Valencia sobre extravío de título universitario.](BOE-B-2017-63158.md)
+- [Anuncio de la Escuela de Doctorado de la Universitat Politècnica de València sobre extravío de título universitario.](BOE-B-2017-63159.md)
+- [Anuncio de la Facultad de Medicina de la Universidad Autónoma de Madrid sobre extravío de título universitario de Licenciado en Medicina y Cirugía.](BOE-B-2017-63160.md)
+- [Anuncio de la Universidad de Las Palmas de Gran Canaria sobre extravío de título universitario.](BOE-B-2017-63161.md)
+- [Anuncio de Facultad de Economía y Empresa de la Universidad de Salamanca sobre extravío de título universitario.](BOE-B-2017-63162.md)
+- [Anuncio de la E.T.S. de Ingeniería de la Universidad de Sevilla sobre extravío de título universitario.](BOE-B-2017-63163.md)
+- [Anuncio de la Facultad de Psicología de la Universidad Valencia sobre extravío de título universitario.](BOE-B-2017-63164.md)
+- [Anuncio de la Sección de Títulos de la Universidad de Alcalá sobre extravío de título universitario.](BOE-B-2017-63165.md)
+- [Anuncio de la Universidad de Alicante sobre extravío de título universitario.](BOE-B-2017-63166.md)
+- [Anuncio de la Facultad de Ciencia y Tecnología de la Universidad del País Vasco/Euskal Herriko Unibertsitatea sobre extravío de título universitario.](BOE-B-2017-63167.md)
+- [Anuncio de la Universidad de Cádiz sobre extravío de título universitario.](BOE-B-2017-63168.md)
+- [Anuncio de Facultad de Psicología de la Universidad de Valencia, sobre extravío de título universitario.](BOE-B-2017-63169.md)
+- [Anuncio de la Facultad de Educación de la Universidad de Murcia sobre extravío de título universitario.](BOE-B-2017-63170.md)
+- [Anuncio de la Facultad de Derecho de la Universidad de Almería sobre extravío de título universitario.](BOE-B-2017-63171.md)
+- [Anuncio de la Facultad de Ciencias de la Educación de la Universidad de Sevilla sobre extravío de título universitario.](BOE-B-2017-63172.md)
+- [Anuncio de la Facultad de Educación Social y Trabajo Social Pere Tarrés de la Universidad Ramon Llull sobre extravío de título universitario.](BOE-B-2017-63173.md)
+- [Anuncio de la Escola Politècnica Superior d'Enginyeria de Manresa de la Universitat Politècnica de Catalunya sobre extravío de título universitario.](BOE-B-2017-63174.md)
+- [Anuncio de l'Escola Politècnica Superior d'Enginyeria de Manresa de la Universitat Politècnica de Catalunya sobre extravío de título universitario.](BOE-B-2017-63175.md)
+- [Anuncio de la Facultad de Economía y Empresa de la Universidad del País Vasco / Euskal Herriko Unibertsitatea sobre extravío de título universitario.](BOE-B-2017-63176.md)
+- [Anuncio de la Facultad de Derecho de la Universidad de Granada sobre extravío de título universitario.](BOE-B-2017-63177.md)
